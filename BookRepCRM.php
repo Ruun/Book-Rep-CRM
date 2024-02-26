@@ -21,7 +21,7 @@ $customerData = file("customers.txt", FILE_IGNORE_NEW_LINES);
 
    <!-- Bootstrap core CSS -->
 
-  <!-- <link href="dist/css/bootstrap.min.css" rel="stylesheet"> -->
+  <link href="dist/css/bootstrap.min.css" rel="stylesheet">
    
    <!-- Bootstrap theme CSS -->
    <link href="theme.css" rel="stylesheet">
