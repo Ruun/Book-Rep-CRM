@@ -4,7 +4,7 @@ This is one of the assignment of my web development course.
 # Purpose: 
 Solve a basic programming assignment using PHP and MySQL.
 
-#Tasks
+# Tasks
 
 1. Write database access code for all of your pages in this assignment.
 2. The home page must be named index.php. This home page must contain links to the catalog and customer list pages as well as your name (see below). Notice as well the link expectations for the header and left menu area; these must be consistent on all pages
