@@ -20,7 +20,9 @@ $customerData = file("customers.txt", FILE_IGNORE_NEW_LINES);
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>  
 
    <!-- Bootstrap core CSS -->
-   <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- <link href="dist/css/bootstrap.min.css" rel="stylesheet"> -->
+   
    <!-- Bootstrap theme CSS -->
    <link href="theme.css" rel="stylesheet">
 
