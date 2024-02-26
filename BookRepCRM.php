@@ -20,15 +20,15 @@ $customerData = file("customers.txt", FILE_IGNORE_NEW_LINES);
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>  
 
    <!-- Bootstrap core CSS -->
-   <link href="bootstrap3_bookTheme/dist/css/bootstrap.min.css" rel="stylesheet">
+   <link href="dist/css/bootstrap.min.css" rel="stylesheet">
    <!-- Bootstrap theme CSS -->
-   <link href="bootstrap3_bookTheme/theme.css" rel="stylesheet">
+   <link href="theme.css" rel="stylesheet">
 
 
    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
    <!--[if lt IE 9]>
-   <script src="bootstrap3_bookTheme/assets/js/html5shiv.js"></script>
-   <script src="bootstrap3_bookTheme/assets/js/respond.min.js"></script>
+   <script src="assets/js/html5shiv.js"></script>
+   <script src="assets/js/respond.min.js"></script>
    <![endif]-->
 </head>
 
@@ -135,8 +135,8 @@ $customerData = file("customers.txt", FILE_IGNORE_NEW_LINES);
  <!-- Bootstrap core JavaScript
  ================================================== -->
  <!-- Placed at the end of the document so the pages load faster -->
- <script src="bootstrap3_bookTheme/assets/js/jquery.js"></script>
- <script src="bootstrap3_bookTheme/dist/js/bootstrap.min.js"></script>
- <script src="bootstrap3_bookTheme/assets/js/holder.js"></script>
+ <script src="assets/js/jquery.js"></script>
+ <script src="dist/js/bootstrap.min.js"></script>
+ <script src="assets/js/holder.js"></script>
 </body>
 </html>
